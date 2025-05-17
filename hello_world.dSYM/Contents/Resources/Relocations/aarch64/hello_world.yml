@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/akashsaha/Desktop/C++ DSA/hello_world'
+relocations:     []
+...
